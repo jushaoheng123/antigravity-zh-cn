@@ -1,0 +1,7 @@
+backup/
+build/
+unpacked/
+__pycache__/
+*.log
+*.asar
+.DS_Store
